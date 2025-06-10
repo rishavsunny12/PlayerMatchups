@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-heinh89dwk%qsjvcuwmm%ab@1i@*7p)g33y_g+f$s34l8u#=6+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'your-domain.com', 'your-app-id.ew.r.appspot.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'playermatchups-1007870963707.us-east1.run.app', 'your-app-id.ew.r.appspot.com']
 
 
 # Application definition
